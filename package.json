@@ -19,8 +19,8 @@
     "swiper": "^12.0.2",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://suryavanshi12.github.io/React-Assignment",
-  "scripts": {
+  "homepage": "https://suryavanshi12.github.io/jiit/",
+  "scripts": { 
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
